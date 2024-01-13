@@ -1,2 +1,2 @@
-<h5> Hi everyone!</h5>
-<h2> Here's my assignments and exercise througout my year 1 of study</h2>
+<h1> Hi everyone!</h1>
+<h3> Here are my assignments and exercises throughout my year 1 of study</h3>
