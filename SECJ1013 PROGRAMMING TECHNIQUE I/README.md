@@ -17,4 +17,4 @@ This fundamental course provides students with a solid foundation in problem-sol
 
 ## Lecturer 👩‍🏫
 
-- **Name:** Dr. Nies Hui Wen
+**Name: Dr. Nies Hui Wen**
