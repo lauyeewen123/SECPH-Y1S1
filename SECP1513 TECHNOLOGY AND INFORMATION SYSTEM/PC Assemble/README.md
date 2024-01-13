@@ -9,15 +9,15 @@ Disassembling the PC provided insights into the interconnected nature of compone
 I recognize that improving my precision and attention to detail during the assembly process is crucial. Another area for improvement is effective team communication, as clearer communication leads to more efficient collaboration.
 
 <div align="center">
-  <h3>Group Photo</h3>
+  <h3>-Group Photo-</h3>
   <img src="groupphoto.jpg" alt="Our Group" width="400"/>
   
   <br/>
 
-  <h3>Before Disassembly</h3>
+  <h3>-Before Disassembly-</h3>
   <img src="before.jpg" alt="Before Disassembly" width="400"/>
 
-  <h3>After Disassembly</h3>
+  <h3>-After Disassembly-</h3>
   <img src="after.jpg" alt="After Disassembly" width="400"/>
 </div>
 
