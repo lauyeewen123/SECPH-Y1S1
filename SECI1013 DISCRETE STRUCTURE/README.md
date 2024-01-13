@@ -13,4 +13,4 @@ The concepts and uses of discrete structure in computer science are introduced t
 
 ## Lecturer 👩‍🏫
 
-- **Name:** Dr. Nor Haizan
+**Name: Dr. Nor Haizan**
