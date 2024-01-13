@@ -12,4 +12,4 @@ All microprocessor-based systems, including computers, robots, automobiles, and 
 
 ## Lecturer 👩‍🏫
 
- **Name:** Dr. Fazrina
+ **Name: Dr. Fazrina**
