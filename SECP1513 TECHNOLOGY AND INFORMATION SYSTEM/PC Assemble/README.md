@@ -5,7 +5,8 @@ Patience and meticulousness were key during this process.
 
 Disassembling the PC provided insights into the interconnected nature of components, emphasizing the modular and upgradeable aspects of PCs. Despite facing challenges in cable management and component compatibility, the experience enriched my technical knowledge and problem-solving skills. 🛠️ The collaborative effort involved in the assembly process also fostered teamwork. Overall, this practical journey has equipped me with valuable skills and confidence for future engagements in the dynamic field of technology. 👩‍💻🚀
 
-
+# Improvement
+I recognize that improving my precision and attention to detail during the assembly process is crucial. Another area for improvement is effective team communication, as clearer communication leads to more efficient collaboration.
 
 <div align="center">
   <h3>Group Photo</h3>
