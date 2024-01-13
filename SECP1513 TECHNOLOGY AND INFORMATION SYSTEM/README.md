@@ -16,5 +16,5 @@ By the end of the course, students should be able to:
 
 ## 👩‍🏫 Lecturer
 
-**Dr. Aryati Bakri**
+**Name: Dr. Aryati Bakri**
 
