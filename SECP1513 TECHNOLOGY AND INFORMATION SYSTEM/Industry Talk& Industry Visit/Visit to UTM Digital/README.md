@@ -1,8 +1,8 @@
-<h3>This video is based on the visit to UTM Digital and the virtual talk attended.</h3>
-<p>Check out our group's video!</p>
-<a href="https://youtu.be/Xt_AEjaf-HA" target="_blank">
-  🤗 Click Here
-</a>
+<h3>Explore our UTM Digital visit and virtual talk experience!</h3>
+<p>Watch the video to get insights into our journey!!🤗</p>
+<br/>
+<a href="https://youtu.be/Xt_AEjaf-HA" target="_blank">🎥 Click here</a>
+
 
 
 
