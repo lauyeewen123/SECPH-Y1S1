@@ -15,6 +15,6 @@ This experience has not only contributed to our technical knowledge but has also
 
 ---
 
-*Insert additional sections, images, or links as needed for your specific README format.*
+
 
 
