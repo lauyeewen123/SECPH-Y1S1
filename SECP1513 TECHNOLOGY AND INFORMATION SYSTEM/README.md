@@ -14,7 +14,7 @@ By the end of the course, students should be able to:
 - Identify fundamental information systems and technology components
 - Understand applications of information systems and technology in professional and household settings
 
-## 🎙️ Lecturer
+## 👩‍🏫 Lecturer
 
 **Dr. Aryati Bakri**
 
