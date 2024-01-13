@@ -2,7 +2,7 @@
 
 ## 📚 Overview
 
-This course is a basic introduction to information systems and technology, covering its applications in professional and household environments. There will be an introduction to several aspects of information systems and technology, including hardware, software, networks, communications, internet, multimedia, graphics, and system applications.
+This course is a basic introduction to information systems and technology, covering its applications in professional and household environments. There will be an introduction to several aspects of information systems and technology, including hardware, software, networks, communications, Internet, multimedia, graphics, and system applications.
 
 ## 🛠️ Hands-on Experience
 
