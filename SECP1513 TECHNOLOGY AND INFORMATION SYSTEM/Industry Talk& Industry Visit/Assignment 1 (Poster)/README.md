@@ -9,7 +9,7 @@ The recent industrial talk by PPG provided valuable insights into the pivotal ro
 - **Reputation Matters**: Stressed the importance of reputable companies for training.
 
 ## Reflection
-Reflecting on the talk, I see the dynamic nature of the ICT sector. Practical experiences and the application of theory in real-world scenarios were underscored. The advice to seek training in companies fostering holistic skill development resonates.
+As I reflect on the talk, I recognize the dynamic nature of the ICT sector. The need for practical experiences and the application of theoretical knowledge in real-world scenarios were highlighted. The recommendation to seek industrial training in companies fostering holistic skill development aligns with the evolving landscape of information technology.
 
 ## Action Steps 🎯
 1. **Explore Opportunities**: Actively seek industrial training in reputable companies.
