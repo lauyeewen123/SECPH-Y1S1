@@ -16,4 +16,4 @@ As I reflect on the talk, I recognize the dynamic nature of the ICT sector. The 
 2. **Balance Skills**: Recognize the need for both technical and soft skills.
 3. **Apply Insights**: Implement practical insights gained from the talk.
 
-Excited to embrace challenges and opportunities in the data engineering field! 🔍💻
+The industrial talk by PPG has sparked a renewed motivation to pursue holistic professional development in the data engineering field. Excited to embrace the challenges and opportunities ahead! 🌟
