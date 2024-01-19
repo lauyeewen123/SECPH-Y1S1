@@ -1,4 +1,4 @@
-# Reflection 
+# Industrial Talk Reflection 
 
 ## Overview 🔍
 The recent industrial talk by PPG provided valuable insights into the pivotal role of data engineering in the Information Communication Technology (ICT) sector. The talk emphasized the significance of data warehouses for structured data storage and data lakes for flexible analysis, highlighting their applications in machine learning and advanced analytics.
