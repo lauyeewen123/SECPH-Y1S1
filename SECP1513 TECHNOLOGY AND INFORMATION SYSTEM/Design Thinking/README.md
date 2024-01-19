@@ -2,7 +2,7 @@
 
 Engaging in the computer network design thinking project was a transformative and unforgettable experience. The iterative process significantly enhanced my problem-solving skills and deepened my understanding of complex network challenges. Emphasizing user empathy and collaborating within our diverse team proved to be instrumental, fostering open discussions and amplifying both creativity and problem-solving capabilities. 🚀💡
 
-Through iterative prototyping and testing, we refined our router with a focus on adaptability and continuous improvement. This project not only improved our technical skills but also instilled in us a proactive mindset when facing technological challenges in computer networks. 🛠️🔄
+Through iterative prototyping and testing, we refined our router with a focus on adaptability and continuous improvement. This project not only improved our technical skills but also instilled in us a proactive mindset when facing technological challenges in computer networks. 🛠️
 
 ## Key Learnings:
 
